@@ -624,8 +624,8 @@ For a full list of credentials and official exam preparation trails, visit [trai
 
 <div align="center">
 
-`Prepared By *vamsi Prasad Purum*`
+`Prepared By Vamsi Prasad Purum`
 
-[![Made with Trailhead](https://img.shields.io/badge/Made%20with-Trailhead-00D2FF?style=flat-square&logo=salesforce)](https://trailhead.salesforce.com)
+
 
 </div>
