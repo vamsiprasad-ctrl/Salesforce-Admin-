@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Salesforce Training Program
+# ⚡ Salesforce Admin Topics Guide.
 ### Complete Trailhead Learning Resource Guide
 
 [![Salesforce](https://img.shields.io/badge/Salesforce-Admin%20%26%20Consultant-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://trailhead.salesforce.com)
@@ -624,9 +624,7 @@ For a full list of credentials and official exam preparation trails, visit [trai
 
 <div align="center">
 
-*Maintained as part of the Salesforce Admin & Consultant training program.*
-
-*All 51 links verified · April 2026 · Salesforce releases platform updates three times per year — links may evolve with each release.*
+`Prepared By *vamsi Prasad Purum*`
 
 [![Made with Trailhead](https://img.shields.io/badge/Made%20with-Trailhead-00D2FF?style=flat-square&logo=salesforce)](https://trailhead.salesforce.com)
 
